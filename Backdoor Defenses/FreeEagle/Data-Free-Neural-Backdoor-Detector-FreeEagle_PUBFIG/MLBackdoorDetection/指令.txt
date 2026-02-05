@@ -1,0 +1,5 @@
+python backdoor_inspection_new.py --model net --ckpt ../../../../models/MNIST_multi.pth --n_cls 10 --size 28
+
+python backdoor_inspection_new.py --model gtsrbnet --ckpt ../../../../models/GTSRB_badnets.pth --n_cls 43 --size 32
+
+python backdoor_inspection_new.py --model vggface --ckpt ../../../../models/PUBFIG_SQ.pth --n_cls 83 --size 224
