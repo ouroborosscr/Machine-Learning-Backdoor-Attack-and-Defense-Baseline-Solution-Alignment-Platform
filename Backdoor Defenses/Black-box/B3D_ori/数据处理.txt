@@ -1,0 +1,4 @@
+作者提出存在逆向触发器的==L1范数小于中位数四分之一即认为存在离群点的方法==
+
+
+python b3d_full_paper.py --dataset mnist --model_path ../../../models/MNIST_badnets.pth

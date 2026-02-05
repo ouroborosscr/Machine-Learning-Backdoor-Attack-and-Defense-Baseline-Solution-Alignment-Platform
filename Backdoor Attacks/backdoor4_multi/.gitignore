@@ -1,0 +1,10 @@
+.idea/
+*.iml
+.data/
+.DS_Store
+.vscode/
+runs/
+saved_models/
+__pycache__
+.ipynb_checkpoints/
+notebooks/

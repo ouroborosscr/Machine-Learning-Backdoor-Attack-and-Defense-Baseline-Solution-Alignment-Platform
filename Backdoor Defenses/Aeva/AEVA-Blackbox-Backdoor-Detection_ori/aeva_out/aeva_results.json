@@ -1,0 +1,72 @@
+{
+  "0": {
+    "n": 20,
+    "mu": 0.4999994227843351,
+    "beta": 1e-06,
+    "anomalous_indices": [],
+    "anomalous_peaks": []
+  },
+  "1": {
+    "n": 20,
+    "mu": 0.4999994227843351,
+    "beta": 1e-06,
+    "anomalous_indices": [],
+    "anomalous_peaks": []
+  },
+  "2": {
+    "n": 19,
+    "mu": 0.4999994227843351,
+    "beta": 1e-06,
+    "anomalous_indices": [],
+    "anomalous_peaks": []
+  },
+  "3": {
+    "n": 19,
+    "mu": 0.4999994227843351,
+    "beta": 1e-06,
+    "anomalous_indices": [],
+    "anomalous_peaks": []
+  },
+  "4": {
+    "n": 20,
+    "mu": 0.4999994227843351,
+    "beta": 1e-06,
+    "anomalous_indices": [],
+    "anomalous_peaks": []
+  },
+  "5": {
+    "n": 21,
+    "mu": 0.4999994227843351,
+    "beta": 1e-06,
+    "anomalous_indices": [],
+    "anomalous_peaks": []
+  },
+  "6": {
+    "n": 20,
+    "mu": 0.4999994227843351,
+    "beta": 1e-06,
+    "anomalous_indices": [],
+    "anomalous_peaks": []
+  },
+  "7": {
+    "n": 20,
+    "mu": 0.4999994227843351,
+    "beta": 1e-06,
+    "anomalous_indices": [],
+    "anomalous_peaks": []
+  },
+  "8": {
+    "n": 21,
+    "mu": 0.4999994227843351,
+    "beta": 1e-06,
+    "anomalous_indices": [],
+    "anomalous_peaks": []
+  },
+  "9": {
+    "n": 20,
+    "mu": 0.4999994227843351,
+    "beta": 1e-06,
+    "anomalous_indices": [],
+    "anomalous_peaks": []
+  }
+}
